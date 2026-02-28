@@ -15,7 +15,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "your-username/render-csv.nvim",
+  "kissy24/render-csv.nvim",
   config = function()
     require("render-csv").setup({
       -- optional configuration
